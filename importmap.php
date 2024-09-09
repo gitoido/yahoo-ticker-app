@@ -22,4 +22,23 @@ return [
     '@symfony/stimulus-bundle' => [
         'path' => './vendor/symfony/stimulus-bundle/assets/dist/loader.js',
     ],
+    'flowbite' => [
+        'version' => '2.5.1',
+    ],
+    '@popperjs/core' => [
+        'version' => '2.11.8',
+    ],
+    'flowbite-datepicker' => [
+        'version' => '1.3.0',
+    ],
+    'flowbite/dist/flowbite.min.css' => [
+        'version' => '2.5.1',
+        'type' => 'css',
+    ],
+    'tailwindcss' => [
+        'version' => '3.4.10',
+    ],
+    'tom-select' => [
+        'version' => '2.3.1',
+    ],
 ];
